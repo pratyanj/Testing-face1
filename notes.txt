@@ -1,0 +1,45 @@
+http://dteworks01.com/xml/index.html#/login
+
+task page  = <div class="van-tabbar-item__icon"><img data-v-53cb1f6f="" src="./static/images/new/Task.png?t=1"><!----></div><div class="van-tabbar-item__text">
+      Task
+    </div>
+
+first task = <div data-v-02e24912="" style="position: relative;"><i data-v-02e24912="" class="van-icon van-icon-play-circle-o" style="position: absolute; left: calc(50% - 15px); top: calc(50% - 15px); color: rgb(255, 255, 255); font-size: 30px;"><!----></i> <img data-v-02e24912="" src="https://pbs.twimg.com/media/FrB_9kiaMAI9E_0.jpg" style="object-fit: cover; width: 5rem; display: block; height: 5rem; border-radius: 0.5rem;"></div> <div data-v-02e24912="" style="margin-left: 1rem;"><div data-v-02e24912="" style="display: flex; align-items: center;"><div data-v-02e24912="" style="background: url(&quot;./static/images/task/vipbg.png&quot;) 0% 0% / 100% 100% no-repeat; padding: 3px 6px; font-size: 12px; color: rgb(255, 255, 255); margin-right: 10px;">D3</div> <div data-v-02e24912="" style="word-break: break-word;"></div></div> <div data-v-02e24912="" style="display: flex; align-items: center; margin-top: 0.5rem;"><div data-v-02e24912="">Reward price:</div> <div data-v-02e24912="" style="color: rgb(241, 176, 13);">
+                      Rs +25.00
+                    </div></div> <div data-v-02e24912="" style="color: rgb(170, 170, 170); margin-top: 0.5rem;"></div></div>
+
+
+sec task =<div data-v-02e24912="" style="position: relative;"><i data-v-02e24912="" class="van-icon van-icon-play-circle-o" style="position: absolute; left: calc(50% - 15px); top: calc(50% - 15px); color: rgb(255, 255, 255); font-size: 30px;"><!----></i> <img data-v-02e24912="" src="https://pbs.twimg.com/media/GTbHM-UbMAA4c4s.jpg" style="object-fit: cover; width: 5rem; display: block; height: 5rem; border-radius: 0.5rem;"></div> <div data-v-02e24912="" style="margin-left: 1rem;"><div data-v-02e24912="" style="display: flex; align-items: center;"><div data-v-02e24912="" style="background: url(&quot;./static/images/task/vipbg.png&quot;) 0% 0% / 100% 100% no-repeat; padding: 3px 6px; font-size: 12px; color: rgb(255, 255, 255); margin-right: 10px;">D3</div> <div data-v-02e24912="" style="word-break: break-word;"></div></div> <div data-v-02e24912="" style="display: flex; align-items: center; margin-top: 0.5rem;"><div data-v-02e24912="">Reward price:</div> <div data-v-02e24912="" style="color: rgb(241, 176, 13);">
+                      Rs +25.00
+                    </div></div> <div data-v-02e24912="" style="color: rgb(170, 170, 170); margin-top: 0.5rem;"></div></div>
+
+if task completed:
+    task completed msg = <div class="van-dialog__message van-dialog__message--has-title">Task today has been completed</div> 
+
+    confirmBTN=<div class="van-button__content"><span class="van-button__text">Confirm</span></div>
+    and take screenshot
+
+myProfile=<div class="van-tabbar-item__icon"><img data-v-53cb1f6f="" src="./static/images/new/Mine.png?t=1"><!----></div><div class="van-tabbar-item__text">
+      My
+    </div>
+
+video play = <button class="vjs-big-play-button" type="button" title="Play Video" aria-disabled="false"><span aria-hidden="true" class="vjs-icon-placeholder"></span><span class="vjs-control-text" aria-live="polite">Play Video</span></button>
+
+description = <button class="vjs-big-play-button" type="button" title="Play Video" aria-disabled="false"><span aria-hidden="true" class="vjs-icon-placeholder"></span><span class="vjs-control-text" aria-live="polite">Play Video</span></button>
+
+watcher later = <button data-v-1d18d737="" class="van-button van-button--default van-button--normal van-button--block van-button--round" style="font-size: 16px; margin: 0px 5px; color: rgb(255, 255, 255); background: rgb(170, 170, 170); border-color: rgb(170, 170, 170);"><div data-v-1d18d737="" class="van-button__content"><span data-v-1d18d737="" class="van-button__text">watch later</span></div></button>
+
+Start answer = <button data-v-1d18d737="" class="van-button van-button--danger van-button--normal van-button--block van-button--round" style="font-size: 16px; margin: 0px 5px; background: rgb(255, 216, 0);"><div data-v-1d18d737="" class="van-button__content"><span data-v-1d18d737="" class="van-button__text">Start Answering</span></div></button>
+
+answer popup X btn = <i role="button" tabindex="0" class="van-icon van-icon-cross van-popup__close-icon van-popup__close-icon--top-right"><!----></i>
+
+choice according to btn text
+two option = <div data-v-1d18d737="" class="answer ">
+            REEBOK
+          </div>
+
+Submit Answer = <button data-v-1d18d737="" class="van-button van-button--danger van-button--large van-button--block van-button--round" style="font-size: 18px;"><div data-v-1d18d737="" class="van-button__content"><span data-v-1d18d737="" class="van-button__text">Submit Answer</span></div></button>
+
+try to find go back btn anfter  submit corect answer
+back to next = <button data-v-1d18d737="" class="van-button van-button--danger van-button--normal van-button--block van-button--round" style="font-size: 18px; background: url(&quot;./static/images/profitbtn.png?t=1&quot;) 0% 0% / 100% 100% no-repeat;"><div data-v-1d18d737="" class="van-button__content"><span data-v-1d18d737="" class="van-button__text">
+              Back to next</span></div></button>
